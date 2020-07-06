@@ -1,2 +1,0 @@
-# MacroxConfigCSGO
-CSGO
