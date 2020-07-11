@@ -2,7 +2,7 @@
 CSGO
 
 
-Pasos para cargar configuraciones de video:
+Pasos para cargar estos dos archivos se deben isertar en la siguiente direccion:
 
 1. Ir a: C: ➜ Program Files (x86) ➜ Steam ➜ userdata ➜ 189552640 ➜ 730 ➜ local ➜ cfg
 
